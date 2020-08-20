@@ -10,5 +10,8 @@ if x == 8.6:
 elif x == 7.001:
     print("this sorta works")
 
+elif x == 24
+    print("this doesnt look too good")
+
 else:
     print(uhoh)
