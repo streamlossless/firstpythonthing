@@ -1,10 +1,10 @@
 x = float(7)
 
-x = 7
+x = 24
 
 works = "it's working"
 sorta = "this is sorta working"
-ng = "this doesnt look too good"
+notgood = "this doesnt look too good"
 uhoh = "this isnt working"
 
 if x == 8.6:
@@ -14,7 +14,7 @@ elif x == 7:
     print(sorta)
 
 elif x == 24:
-    print(ng)
+    print(notgood)
 
 else:
     print(uhoh)
