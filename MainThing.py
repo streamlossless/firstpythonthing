@@ -1,17 +1,20 @@
 x = float(7)
 
-x = 9.2
+x = 7
 
-uhoh = "test here, hello world"
+works = "it's working"
+sorta = "this is sorta working"
+ng = "this doesnt look too good"
+uhoh = "this isnt working"
 
 if x == 8.6:
-    print("this works")
+    print(works)
 
-elif x == 7.001:
-    print("this sorta works")
+elif x == 7:
+    print(sorta)
 
-elif x == 24
-    print("this doesnt look too good")
+elif x == 24:
+    print(ng)
 
 else:
     print(uhoh)
