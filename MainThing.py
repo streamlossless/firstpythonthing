@@ -1,5 +1,3 @@
-x = float(7)
-
 x = 24
 
 works = "it's working"
